@@ -1,0 +1,51 @@
+.nav-wrapper {
+  background: #1a1c21;
+}
+
+.brand-logo {
+  margin-left: 2%;
+}
+
+.logo {
+  height: 7%;
+  width: 7%;
+}
+
+.row {
+  margin: 0 !important;
+  padding: 0;
+}
+
+.parallax {
+  background: #fff fixed no-repeat 50% 50%;
+  background-size: cover;
+}
+
+#block1 {
+  background-image: url('../assets/img/i1.jpg');
+  height: 60vh;
+}
+
+#block2 {
+  background: #fff;
+  height: 50vh;
+}
+
+#block3 {
+  background-image: url('../assets/img/i2.jpg');
+  height: 60vh;
+}
+
+#block4 {
+  background: #fff;
+  height: 30vh;
+}
+
+#block5 {
+  background-image: url('../assets/img/i3.jpg');
+  height: 60vh;
+}
+
+.page-footer {
+  background: #1a1c21 !important;
+}
